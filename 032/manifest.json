@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "index": 1,
+      "file": "01-issue-032-teaser.png",
+      "template": "issue_list",
+      "kind": "issue",
+      "headline": "The Towcester Waffle",
+      "caption": "This week's Towcester Waffle is out: 105 knives in the town's amnesty bin, Silverstone CE Primary's new Ofsted report card, what's taking shape at Towcester Grange, the Saints and Towcestrians results, closures to plan around, and a diary running to Sunday 25 October. Free every Wednesday morning at towcesterwaffle.com.",
+      "alt_text": "Towcester Waffle issue 032 graphic listing this week's headlines: the knife amnesty bin, an Ofsted report card, Towcester Grange, Saints and the weekend diary."
+    },
+    {
+      "index": 2,
+      "file": "02-knife-amnesty-bin.png",
+      "template": "update_fact",
+      "kind": "update",
+      "headline": "105 knives handed in at Towcester's amnesty bin",
+      "caption": "The knife amnesty bin in Towcester town centre has collected 105 knives in its first six weeks, Northamptonshire Police said. It's on the side of the Sawpits building (the old library) on Richmond Road, where it meets Meeting Lane. If there's an old blade in a drawer or shed you'd rather not have around, that's where it can go. More in this week's Waffle.",
+      "alt_text": "Towcester Waffle graphic: 105 knives handed in at Towcester's amnesty bin in its first six weeks, located on Richmond Road."
+    },
+    {
+      "index": 3,
+      "file": "03-silverstone-ofsted.png",
+      "template": "scale_contrast",
+      "kind": "story",
+      "headline": "Silverstone CE Primary gets a strong Ofsted report card",
+      "caption": "Silverstone CE Primary has a new-style Ofsted report card, and it's a good one: rated Strong in six areas, Expected on achievement, and safeguarding standards met. This week's Waffle also has a quick guide to reading the new five-step ratings if you're weighing up schools. Reception applications close at midnight on Friday 15 January.",
+      "alt_text": "Towcester Waffle graphic announcing that Silverstone CE Primary was rated Strong in six areas in its new Ofsted report card."
+    },
+    {
+      "index": 4,
+      "file": "04-grange-local-centre.png",
+      "template": "scale_contrast",
+      "kind": "story",
+      "headline": "Towcester Grange's new local centre is taking shape",
+      "caption": "Building work is under way on a Sainsbury's Local at the new shopping area at Towcester Grange, on the corner of Redcar Road and Long Morris. Fried chicken chain Wingers has signed for Unit 7 and E'DO Artisan Coffee is taking a unit next to the supermarket. Other units are still being advertised, and estate agents expect the centre to be ready in early 2027.",
+      "alt_text": "Towcester Waffle graphic about the new local centre at Towcester Grange, with a Sainsbury's Local, Wingers and E'DO Artisan Coffee."
+    },
+    {
+      "index": 5,
+      "file": "05-closures-roundup.png",
+      "template": "roundup_list",
+      "kind": "roundup",
+      "headline": "Closures to plan around",
+      "caption": "Closures to plan around: A43 Syresham to Brackley overnight on 14 and 15 October (southbound only on Friday 16th); Careys Road and Cuttle Mill Lane in Paulerspury on Monday 19th; Towcester Road in Milton Malsor from late Sunday 18th to Wednesday 21st; and Brackley Road in Towcester on Monday 9 November. Times and diversions are in this week's Waffle.",
+      "alt_text": "Towcester Waffle travel roundup listing four road closures between 14 October and 9 November around Towcester and NN12."
+    },
+    {
+      "index": 6,
+      "file": "06-saints-bath.png",
+      "template": "scoreboard",
+      "kind": "update",
+      "headline": "Saints 71–48 Bath",
+      "caption": "Saints beat Bath 71–48 at Franklin's Gardens on Saturday, scoring 11 tries, with Ollie Sleightholme getting a hat-trick and the man of the match award. Next up is Cardiff at home on Sunday 18 October, 5.30pm, the opening round of the Champions Cup pool stage, then Leicester away on Saturday 24th. Parking and more in this week's Waffle.",
+      "alt_text": "Towcester Waffle sport graphic: Saints beat Bath 71–48, with the next fixture Cardiff at home on Sunday 18 October."
+    },
+    {
+      "index": 7,
+      "file": "07-towcestrians-results.png",
+      "template": "roundup_list",
+      "kind": "roundup",
+      "headline": "Towcestrians at the weekend",
+      "caption": "Towcestrians rugby hammered Leicester Forest 53–5 and sit fifth in Counties 1 Midlands East (South). Ladies 1sts won 1–0 away at Hampton-in-Arden, Ladies 2nds beat Warwick 2 5–1 for four wins from four, and the men's 1sts lost 1–6 to Nottingham Trent University 4. Every team's next fixture is in this week's Waffle.",
+      "alt_text": "Towcester Waffle roundup of Towcestrians rugby and hockey results from Saturday 10 October with each team's next fixture."
+    },
+    {
+      "index": 8,
+      "file": "08-send-consultation.png",
+      "template": "update_fact",
+      "kind": "update",
+      "headline": "SEND strategy consultation closes next Wednesday",
+      "caption": "West Northamptonshire Council wants your views on its draft SEND and Inclusion Strategy 2027 to 2030, the three-year plan for support for children and young people with special educational needs and disabilities. It's the draft itself, so it's your chance to say whether it matches your experience. The survey closes at midnight on Wednesday 21 October.",
+      "alt_text": "Towcester Waffle notice that the West Northamptonshire SEND and Inclusion Strategy survey closes at midnight on Wednesday 21 October."
+    },
+    {
+      "index": 9,
+      "file": "09-weekend-diary.png",
+      "template": "roundup_list",
+      "kind": "roundup",
+      "headline": "Your NN12 diary",
+      "caption": "Free live music at Towcester Mill Brewery on Friday, a free drop-in Craft Club at the library on Saturday, Motor Racing Legends at Silverstone, then pumpkin picking after dark at Wappenham and the Rotary's Cwmbach Male Choir concert the following weekend. Times, prices and booking links are in this week's Waffle.",
+      "alt_text": "Towcester Waffle diary roundup of five local events between Friday 16 and Saturday 24 October."
+    },
+    {
+      "index": 10,
+      "file": "10-wappenham-twilight.png",
+      "template": "event_ribbon",
+      "kind": "event",
+      "headline": "Wappenham Pumpkin Farm Twilight",
+      "caption": "Pumpkin picking after dark at Wappenham Pumpkin Farm: Friday 23 and Saturday 24 October from 6pm, and again on 30 and 31 October. Online tickets are £9 for adults and £9 for children aged 2 to 16, under-2s go free, and the farm recommends booking ahead because tickets are limited.",
+      "alt_text": "Towcester Waffle event graphic for Wappenham Pumpkin Farm Twilight on 23 and 24 October from 6pm."
+    }
+  ]
+}
